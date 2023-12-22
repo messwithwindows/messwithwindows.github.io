@@ -12,7 +12,6 @@ Since the Proxmox server is public (it was made by a Discord user called "vichin
 
 ## Rules
 - Don't do anything illegal
-- Don't try to crack the administrator (my) password
 - Don't power off others' VMs
 - Don't power on too much VMs
 - Don't overload/speedtest my internet
