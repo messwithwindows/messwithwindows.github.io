@@ -7,3 +7,17 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/messwithwindows/messwithwindows.github.io?style=flat-square)
 
 This is the repo containing every single file that messwithwindows uses.
+
+Since the Proxmox server is public (it was made by a Discord user called "vichingo455") you actually could dig into the code and find the credentials, the Owner of the server won't actually care!
+
+## Rules
+- Don't do anything illegal
+- Don't try to crack the administrator (my) password
+- Don't power off others' VMs
+- Don't power on too much VMs
+- Don't overload/speedtest my internet
+- Don't use this server for bypassing IP bans
+- Don't change user password
+- No heavy tasks
+
+**If you do something bad on the VM, vichingo455 might take the ENTIRE Proxmox server down without pre-advise.**
